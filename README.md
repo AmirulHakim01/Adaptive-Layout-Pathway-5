@@ -1,1 +1,1 @@
-# Adaptive-Lsyout-Pathway-5
+# Adaptive-Layout-Pathway-5
